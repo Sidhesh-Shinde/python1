@@ -1,2 +1,3 @@
 # print("Hello World")
-input("Enter your name: ")
+# input("Enter your name: ")
+print("Hello " + input("Enter your name: ") + "!")
