@@ -1,3 +1,5 @@
 # print("Hello World")
 # input("Enter your name: ")
-print("Hello " + input("Enter your name: ") + "!")
+# print("Hello " + input("Enter your name: ") + "!")
+name = input("Enter your name: ")
+print("Your name contains " + str(len(name)) + " characters.")
